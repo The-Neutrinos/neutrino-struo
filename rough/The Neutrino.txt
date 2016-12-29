@@ -1,0 +1,28 @@
+The Neutrino
+Efficient Management and coordination between various clubs and groups in IIT(ISM).
+
+
+The main motivation in developing this application would be to streamline the functioning
+of various student run organisations, clubs, NGO's in ISM. We envision a platform that would
+enable a student to gain all the information about the various activities going on around the campus.
+Clubs will be able to maintain a database of all their members. The students will be able keep track 
+of upcoming meetings without any confusion.This app will also aim to make the process of organising various
+fests and events in campus much easier.Students will get relevant notifications regarding these events on 
+their mobile devices(no more posters on water coolers).They will also be able to register for activities 
+from within the app (no more google docs !!).
+
+
+Some Features:  (Guaranteed)
+1. Relevant information regarding the clubs.
+2. Easy Registration for various clubs/activities.
+3. Advertisements regarding Blood Donation Camps, Workshops and yes... T-shirts.
+
+
+Our team has a lot more cool ideas that we would want to implement in this application, and we
+would strive to achieve them. But due to shortcomings in our technical knowledge and time constraint,
+maybe we will not be able to showcase them. We accept that. We believe that it is time that we solve 
+our many problems through the use of technology. That is our goal. And this app will our first step.
+
+
+
+
